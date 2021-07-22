@@ -1,6 +1,6 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&text=5thofnovmbr&fontAlign=70&rotate=13&fontAlignY=30&animation=twinkling&desc=remember%20remember,%20the&descAlign=70.&descAlignY=5)
 <br />
-<img src="https://img.shields.io/badge/React-5acaea?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/learning...-555555?style=flat&logo=React&logoColor=white&label=React&labelColor=40b0d0"/>
 <br /><br />
 - 👋 Hi, I’m @5thofnovmbr
 - 🌱 I’m currently learning React<br />
