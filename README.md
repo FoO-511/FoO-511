@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&text=5thofnovmbr&fontAlign=70&rotate=13&fontAlignY=30&animation=twinkling&desc=remember%20remember&descAlign=80.&descAlignY=5)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=timeGradient&height=200&text=5thofnovmbr&fontAlign=70&rotate=13&fontAlignY=30&animation=twinkling&desc=Stegosaurus&descAlign=89&descAlignY=5)
 <br />
 <img src="https://img.shields.io/badge/learning...-555555?style=flat&logo=React&logoColor=white&label=React&labelColor=40b0d0"/>
 <br /><br />
