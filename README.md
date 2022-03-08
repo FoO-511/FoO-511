@@ -4,8 +4,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=5thofnovmbr&layout=compact&theme=dark"/>
 </div>
 <br />
-- 👋 Hi, I’m @5thofnovmbr <br />
-- 🌱 I’m currently learning React<br />
 
 
 
